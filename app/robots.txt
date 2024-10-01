@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepmertua.pages.dev/sitemap.xml
+sitemap: https://bokepmertua.pages.dev/sitemap.xml
